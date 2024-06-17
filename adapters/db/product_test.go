@@ -5,7 +5,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/cassioglay/arquitetura-hexagonal/adpters/db"
+	"github.com/cassioglay/arquitetura-hexagonal/adapters/db"
 	"github.com/cassioglay/arquitetura-hexagonal/application"
 	"github.com/stretchr/testify/require"
 )
